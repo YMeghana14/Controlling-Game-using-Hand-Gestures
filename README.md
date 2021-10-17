@@ -27,10 +27,3 @@ Installing pygame
 <h2>📈 Technique used to solve the problem</h2>
 
 Computer Vision
-
-# Implementation
-
-![](Gesture Video.mp4)
-
-
-
