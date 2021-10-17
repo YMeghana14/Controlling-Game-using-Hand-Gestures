@@ -23,7 +23,10 @@ Installing mediapipe
 Installing pygame
   
     $pip install pygame
-  
-Installing pynput
-  
-   $pip install pynput
+ 
+<h2>📈 Technique used to solve the problem</h2>
+
+Computer Vision
+
+# Implementation
+
