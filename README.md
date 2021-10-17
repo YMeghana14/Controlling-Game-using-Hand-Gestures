@@ -30,3 +30,6 @@ Computer Vision
 
 # Implementation
 
+<img src="https://github.com/YMeghana14/Controlling-Game-using-Hand-Gestures/blob/main/Gesture%20Video.mp4">
+
+
